@@ -1,2 +1,2 @@
 # MAS_Android
-This is a fanmade work
+This is just a fanmade work
